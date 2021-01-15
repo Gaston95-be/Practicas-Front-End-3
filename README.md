@@ -4,6 +4,7 @@ Ejercicio:
 
   Los datos del usuario y de otros alumnos fueron recibidos y ya estan almacenados, ahora hay que crear un sistema que muestre esa informacion y se pueda asignar
   cuando rinde.
+  
 	  -La interfaz debe ser agradable y atractiva.
 	  -Debe contener todos los datos de manera estructurada.
 	  -El profesor puede seleccionar en cual de las 2 semanas rinde el usuario.
